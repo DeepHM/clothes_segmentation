@@ -7,4 +7,4 @@ This repository creates a clean product image by removing the background of clot
 
 ## Result
 
-![infer_explanation](https://user-images.githubusercontent.com/37736774/172553045-39453fcb-6b5b-416a-a0fd-c7b74828223f.PNG)
+![infer_explanation](https://user-images.githubusercontent.com/37736774/172554323-889aef4e-a274-40cd-9210-1b4d4f1c3d1c.PNG)
